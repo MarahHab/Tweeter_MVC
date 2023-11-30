@@ -21,8 +21,8 @@ Navigate to the project directory and open the **index.html** file in your prefe
 Review the **logic.js**, **render.js**, and **main.js** files in the js directory to understand the MVC structure.
 Examine the **styles.css** file in the css directory for styling information.
 
-## 〰️ Watch the Video
+## 〰️ Project Page
 
-[![Watch the video](thumbnail.png)](Tweeter - Google Chrome 2023-11-30 14-52-16.mp4)
+[![Watch the video](web-page.png)]
 
 
