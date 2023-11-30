@@ -9,15 +9,15 @@ The project is organized using the **MVC** architecture:
 
 ## 〰️ Getting Started
 
-1. Clone the Repository:
+**1. Clone the Repository:**
 
 ```
 git clone https://github.com/MarahHab/Tweeter_MVC.git
 ```
-2. Open the Project:
+**2. Open the Project:**
 Navigate to the project directory and open the **index.html** file in your preferred web browser.
 
-3. Explore the Code:
+**3. Explore the Code:**
 Review the **logic.js**, **render.js**, and **main.js** files in the js directory to understand the MVC structure.
 Examine the **styles.css** file in the css directory for styling information.
 
