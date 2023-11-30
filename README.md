@@ -22,7 +22,6 @@ Review the **logic.js**, **render.js**, and **main.js** files in the js director
 Examine the **styles.css** file in the css directory for styling information.
 
 ## 〰️ Project Page
-
-[![Watch the video](web-page.png)]
+![Watch the video](web-page.png)
 
 
