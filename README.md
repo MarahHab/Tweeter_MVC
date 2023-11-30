@@ -1,5 +1,5 @@
 ##  Tweeter Project 🐦
-Welcome to the Tweeter MVC project! This web application is a simplified version of a Twitter-like platform, built using **HTML**, **CSS**, **JavaScript**, and **jQuery**. The project follows the Model-View-Controller (MVC) architecture to ensure a clean and organized codebase.
+Welcome to the Tweeter MVC project! This web application is a simplified version of a Twitter-like platform, built using **HTML**, **CSS**, **JavaScript**, and **jQuery**. The project follows the Model-View-Controller (MVC) architecture to ensure a clean and organized codebase. 
 
 ## 〰️ Project Structure
 The project is organized using the **MVC** architecture:\
