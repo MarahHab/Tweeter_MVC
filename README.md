@@ -23,5 +23,5 @@ Examine the **styles.css** file in the css directory for styling information.
 
 ## 〰️ Watch the Video
 
-<iframe width="560" height="315" src="https://youtu.be/v65j3LrX1Xs" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/v65j3LrX1Xs)
 
