@@ -22,5 +22,6 @@ Review the **logic.js**, **render.js**, and **main.js** files in the js director
 Examine the **styles.css** file in the css directory for styling information.
 
 ## 〰️ Watch the Video
-[![Watch the Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID_HERE](https://youtu.be/v65j3LrX1Xs))
+
+<iframe width="560" height="315" src="https://youtu.be/v65j3LrX1Xs" frameborder="0" allowfullscreen></iframe>
 
