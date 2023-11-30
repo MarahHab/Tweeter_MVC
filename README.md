@@ -23,6 +23,6 @@ Examine the **styles.css** file in the css directory for styling information.
 
 ## 〰️ Watch the Video
 
-[![Watch the video](thumbnail.png)](file.mp4)
+[![Watch the video](thumbnail.png)](Tweeter - Google Chrome 2023-11-30 14-52-16.mp4)
 
 
