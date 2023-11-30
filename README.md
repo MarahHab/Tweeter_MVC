@@ -22,4 +22,4 @@ Review the **logic.js**, **render.js**, and **main.js** files in the js director
 Examine the **styles.css** file in the css directory for styling information.
 
 ## 〰️ Watch the Video
-[]
+[Tweeter - Google Chrome 2023-11-30 14-52-16.mp4]
