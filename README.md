@@ -23,5 +23,6 @@ Examine the **styles.css** file in the css directory for styling information.
 
 ## 〰️ Watch the Video
 
-![Watch the video](https://youtu.be/v65j3LrX1Xs)
+[![Watch the video](thumbnail.png)](file.mp4)
+
 
