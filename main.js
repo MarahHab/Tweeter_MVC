@@ -2,10 +2,11 @@ const tweeter = Tweeter();
 const renderer = Renderer();
 
 renderer.renderPosts(tweeter.getPosts());
+const input = $("input")
 
 // Add Post
 function post() {
-  const newPostText = $("input").val();
+  const newPostText = input.val();
   tweeter.addPost(newPostText);
   renderer.renderPosts(tweeter.getPosts());
 }
