@@ -6,9 +6,10 @@ const input = $("input")
 
 // Add Post
 function post() {
-  const newPostText = input.val();
+  const newPostText = input.val()
   tweeter.addPost(newPostText);
   renderer.renderPosts(tweeter.getPosts());
+  $("input").val("")
 }
 
 // Delete Post
@@ -21,11 +22,7 @@ $("#posts").on("click", ".delete", function () {
 // Add Comment
 $("#posts").on("click", ".add-comment", function () {
   const postID = $(this).closest(".post").attr("id");
-  const inputNewTxt = $(
-    "<input class='comment-input' placeholder='Write a new comment...'>"
-  );
-  const publishBtn = $("<button class='publish-comment-btn'>Publish</button>");
-  $(`#${postID}`).append(inputNewTxt, publishBtn);
+
   inputNewTxt.on("blur", function () {
     const newCommentText = $(this).val();
     tweeter.addComment(newCommentText, postID);
