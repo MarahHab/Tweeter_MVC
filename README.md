@@ -1,6 +1,7 @@
 ##  Tweeter Project 🐦
 Welcome to the Tweeter MVC project! This web application is a simplified version of a Twitter-like platform, built using **HTML**, **CSS**, **JavaScript**, and **jQuery**. The project follows the Model-View-Controller (MVC) architecture to ensure a clean and organized codebase. 
 ## 〰️ About MVC
+![mvc image](mvc.png)
 
 ## 〰️ Project Structure
 The project is organized using the **MVC** architecture: 
@@ -23,6 +24,6 @@ Review the **logic.js**, **render.js**, and **main.js** files in the js director
 Examine the **styles.css** file in the css directory for styling information.
 
 ## 〰️ Project Page
-![Watch the video](web-page.png)
+![web image](web-page.png)
 
 
